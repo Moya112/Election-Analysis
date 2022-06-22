@@ -4,7 +4,7 @@
 # Add our dependencies.
 import csv
 import os
-from pip._internal.models import candidate
+
 
 # Assign a variable to load a file from a path.
 file_to_load = os.path.join("Resources", "election_results.csv")
